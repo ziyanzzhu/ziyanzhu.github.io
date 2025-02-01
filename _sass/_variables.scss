@@ -18,13 +18,14 @@ $offWhite: #fdf6e3;
 //$headerColor: #586e75;
 //$bodyColor: #4d5f66;
 
-$red: #FC4100;
+$red: #b5392d;//#FC4100;
 $darkRed: #b80c09;
 $darkBlue: #00215E;
 $dullBlue: #2C4E80;
+$lightBlue: #219ebc;
 $lightPink: #fcdbd9;
 $lighterPink: #fceceb;
-$offWhite: #fff7eb;//#fdf6e3;
+$offWhite: #faf9f5; //#fdf6e3;#fff7eb
 
 $backgroundColor: $offWhite;
 $containerColor: $lightPink;
@@ -37,12 +38,14 @@ $headerColor: $bodyColor;
 $headerBackgroundColor: $lightPink;
 $activeHeaderColor: $red;
 
-$underlineColor: $red;
-$highlightColor: $red;
+//$underlineColor: $red;
+//$highlightColor: $red;
+$underlineColor: $darkBlue;
+$highlightColor: $lightBlue;
 $selectionColor: $lightPink;
 $bulletColor: $red;
 
-$headerBorderColor: $red;
+$headerBorderColor: $dullBlue;
 
 // Font stacks
 $helvetica: "Helvetica", Arial, sans-serif;
@@ -52,10 +55,12 @@ $lucidaGrande: "Lucida Grande", "Helvetica Neue", sans-serif;
 
  
 //$mont: 'Avenir', "Lucida Grande", "Helvetica Neue", sans-serif;
+$bodyFont: 'Helvetica Neue', 'Times';
+$headerFont: 'Helvetica Neue', sans-serif;
+$titleFont: 'Helvetica Neue', sans-serif;
 
-$bodyFont: 'Baskerville', 'Times';
-$headerFont: 'Georgia', 'Times', serif;
-$titleFont: 'Georgia', "Times", serif;
+@import url('https://fonts.googleapis.com/css2?family=Baskervville+SC&display=swap');
+$titleFont: 'Baskervville SC', serif; 
 
 
 // Mobile breakpoints
@@ -176,3 +181,4 @@ $titleFont: 'Georgia', "Times", serif;
   font-weight: bold;
   font-style: italic;
 }
+

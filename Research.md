@@ -4,36 +4,20 @@ title: Research
 permalink: /research/
 ---
 
-The ocean absorbs more than 90% of the heat trapped by greenhouse gases, making ocean dynamics—particularly ocean *turbulence*—key in controlling the rate of climate warming. Yet, this turbulence is poorly represented in climate models, leading to large uncertainties in climate projections.
+
+
+<p class="research-body-font">
 	
-I address this challenge by developing theories that explain observed ocean turbulence and leveraging our theoretical understanding to incorporate the impacts of unrepresented turbulence into climate models.
+	Realistic quantum materials are often large and aperiodic. In addition to containing millions of atoms, their complexity is further compounded by interactions between electrons, phonons (lattice vibrations), and other quasiparticles, which cause the system’s dimensionality to grow exponentially. Traditional theoretical models for quantum materials either require an impractically large amount of computational power or rely on overly crude approximations. 
+</p>
+<p class="research-body-font">
+	To address these challenges, we employ a hierarchical modeling approach that integrates first-principles density functional theory (DFT) calculations, low-energy continuum models, effective many-body models, and machine learning techniques. The combination of these approaches allows us to effectively model aperiodic systems and understand emergent properties. 
+</p>
 
-<!--Theoretically, my work includes developing simplified models of rotating stratified turbulence, extending turbulence theory to oceanically relevant regimes, and applying functional analysis to identify the mathematical properties of commonly occurring linear wave systems.-->
+<div class="research-background-image-container"></div>
 
-<!--table class="research-head">
-  <tr>
-    <td colspan="2">
-	  <p>The ocean absorbs more than 90% of the heat trapped by greenhouse gases, making ocean dynamics—particularly ocean <em>turbulence</em>—key in controlling the rate of climate warming. Yet, this turbulence is poorly represented in climate models, leading to large uncertainties in climate projections.</p>
 
-	  <p>I address this challenge by developing theories that explain observed ocean turbulence and leveraging our theoretical understanding to incorporate the impacts of unresolved turbulence into climate models.</p>
-      
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <p>I engage in both theoretical and computational research. Computationally, I work with both sophisticated climate models as well as simpler two-dimensional fluid models, often handling large datasets.</p>
-		  
-      <p> Theoretically, my work includes developing simplified models of rotating stratified turbulence, extending turbulence theory to oceanically relevant regimes, and applying functional analysis to identify the mathematical properties of commonly occurring linear wave systems.</p>
-    </td>
-    <td>
-      <div class="video-container">
-        <video autoplay="autoplay" muted defaultMuted playsinline oncontextmenu="return false;" preload="auto" loop="loop" width="100%" height="auto">
-          <source src="/videos/2D_kf4_s1.mp4" type="video/mp4">
-        </video>
-      </div>
-    </td>
-  </tr>
-</table-->
+
 
 
 
@@ -41,48 +25,36 @@ I address this challenge by developing theories that explain observed ocean turb
 <table class="project-table">
     <tr>
       <td>
-  		<div class="video-container">
-  		  <video autoplay="autoplay" muted defaultMuted playsinline oncontextmenu="return false;" preload="auto" loop="loop" width="80%" height="auto">
-  		    <source src="/videos/jan_ss1.mp4" type="video/mp4">
-  		  </video>
+  		<div class="image-container">
+  		  <img src="/images/relax.png" alt="relax" style="display: block;">
   		</div>
   	</td>
-      <td><h5>Turbulence theory for the upper ocean</h5>
-  		<!--p>We extend the geostrophic turbulence theory for surface buoyancy anomalies to allow for non-uniform density stratification. We show that accounting for density stratification can explain the anomalous properties of ocean turbulence measured by satellites. </p-->
-  		<!--p>Observations have shown that the kinetic energy spectrum of upper ocean turbulence often deviates from theoretical predictions. Here, we develop a turbulence theory that allows for non-uniform density stratification. We show accounting for density stratification can resolve this discrepancy.</p-->
-  		<p>Observations show that the kinetic energy spectrum of upper ocean turbulence not only deviates from theoretical predictions but also exhibits a strong seasonal cycle. I have extended turbulence theory to explain this behavior and am developing a theory to address the consequences of the seasonal cycle on ocean dynamics.</p>
+      <td><h5>Multi-scale modeling for moiré materials</h5>
+  		
+  		<p> We use DFT-based multi-scale modeling to study the properties of moiré materials, such as twisted bilayer and trilayer graphene. Our approach captures key phenomena including structural domain formations, flat bands, and moiré phonon modes. By accurately predicting parameters where strong correlations and nontrivial topology emerge, we aim to guide experiments in discovering exotic phases of matter in moiré systems.   </p>
   	</td>
     </tr>
   <tr>
-    <td>
-		<div class="video-container">
-		  <video autoplay="autoplay" muted defaultMuted playsinline oncontextmenu="return false;" preload="auto" loop="loop" width="80%" height="auto">
-		    <source src="/videos/atlantic_control.mp4" type="video/mp4">
-		  </video>
-		</div>
-    </td>
-    <td><h5>Ocean turbulence in climate models</h5>
-		<p>Climate models use high numerical viscosities to maintain stability, reducing the ocean’s energy and making it behave more like maple syrup than water. By re-injecting this lost energy, my research aims to restore the ocean’s natural variability, reducing biases and improving climate projections.</p>
-	</td>
+      <td>
+          <div class="image-container">
+            <img src="/images/wannier.png" alt="relax" style="display: block;">
+          </div>
+      </td>
+      <td>
+          <h5>Many-body models for quantum materials</h5>
+          <p> Understanding correlated phases of matter, such as superconductivity, requires accounting for strong electron interactions. To bridge theory with experiment, we construct effective lattice models based on parameters derived from our DFT-based multi-scale framework. We then solve these models using unbiased numerical methods, including exact diagonalization (ED) and determinant quantum Monte Carlo (DQMC). </p>
+      </td>
   </tr>
-  <!--tr>
-    <td><img src="/images/sshstd.png" alt="Project 2 Image"></td>
-    <td><h5>Seasonality of ocean turbulence</h5>
-	  <p> The upper ocean has a strong seasonal cycle: calm summers alternate with turbulent stormy winters. However, our understanding of ocean turbulence neglects this seasonality. I am developing a theory for the consequences of the seasonal cycle on ocean dynamics.
-		</p>
-	</td>
-  </tr-->
+ 
   <tr>
     <td>
-		<div class="video-container">
-		  <video autoplay="autoplay" muted defaultMuted playsinline oncontextmenu="return false;" preload="auto" loop="loop" width="80%" height="auto">
-		    <source src="/videos/alpha05_J42_s1.mp4" type="video/mp4">
-		  </video>
-		</div>
+        <div class="image-container">
+          <img src="/images/topo.png" alt="topo" style="display: block;">
+        </div>
     </td>
-    <td><h5>Waves and wave-turbulence interaction</h5>
-		<p>I have worked on a broad range of wave-related problems. These projects include studying how wave-turbulence interactions give rise to banded flow structures, material transport by waves, and the mathematical properties of waves with dynamically active boundaries.</p>
-		<!--p>The nonlinear interplay of waves and turbulence results in inhomogeneous mixing, ultimately leading to banded flow structures (e.g., on Jupiter). This work investigates how the interaction range of turbulent eddies effects the dynamics of the bands.</p-->
+    <td><h5> Topology in Earth's climate and fusion plasmas </h5>
+		<p> Topology is ubiquitous, shaping phenomena in Earth’s climate, astrophysical systems, and fusion plasmas. We apply numerical techniques to study topological structures in these classical systems. We are conducting an experiment at UCLA’s Large Plasma Device (LAPD) to search for topological waves in magnetized plasmas.  </p>
+
 	</td>
   </tr>
 </table>

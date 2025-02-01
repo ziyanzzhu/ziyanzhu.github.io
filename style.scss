@@ -38,8 +38,8 @@ html {
 
 body {
   background: $backgroundColor;
-  font: 20px/1.5 $bodyFont;
-  font-weight:300;
+  font: 18px/1.5 $bodyFont;
+  font-weight:350;
   //padding-top: 20px; /* Add vertical padding at the top */
   //padding-bottom: 20px; /* Add vertical padding at the bottom */
   color: $bodyColor;
@@ -60,7 +60,7 @@ body {
 
 .container {
   margin: 0 auto;
-  max-width: 800px;
+  max-width: 1000px;
   padding: 0 10px;
   width: 100%;
   //background-color: $containerColor;
@@ -111,6 +111,7 @@ h1 {
   a {
     color: inherit;
   }
+   border-bottom: 1px solid $headerBorderColor;
 }
 
 h2 {
@@ -131,7 +132,7 @@ h4 {
 }
 
 h5 {
-  font-size: 18px;
+  font-size: 20px;
 }
 
 p {
@@ -223,13 +224,6 @@ img {
 /*********************/
 
 
-
-
-//
-// .masthead
-//
-
-
 .masthead {
   display: flex;
   justify-content: space-between;
@@ -249,7 +243,7 @@ img {
   .site-name {
 	font-family: $titleFont;
     font-style: normal; 
-    font-size: 30px;
+    font-size: 28px;
     font-weight: 600;
     color: $titleColor;
     cursor: pointer;
@@ -274,11 +268,11 @@ img {
   }
 
   nav {
-    font-family: $headerFont;
-    font-size: 18px; 
+    font-family: $titleFont;
+    font-size: 16px; 
 
     @include mobile {
-      font-size: 16px;
+      font-size: 14px;
     }
 
     a {
@@ -294,12 +288,14 @@ img {
   	a.active {
 	  color: $activeHeaderColor;
 	  text-decoration-color: $activeHeaderColor;
-	  
+
       //font-weight: bold; 
     }
   }
 }
-//
+
+
+
 
 .education {
 	padding: 20px 0;
@@ -327,7 +323,7 @@ img {
         }
 
         .date {
-            width: 10%;
+            width: 20%;
             text-align: right;
             font-size: 0.85em;
             white-space: nowrap;
@@ -337,9 +333,9 @@ img {
 }
 
 .index-background-image-container {
-    background-image: url('{{ site.baseurl }}/images/Pacific.jpg'); /* Use the image from your front matter */
+    background-image: url('{{ site.baseurl }}/images/image2.png'); /* Use the image from your front matter */
     background-size: cover; /* Cover the entire area */
-    background-position: 50% 35%; /* Center the image */
+    background-position: 50% 15%; /* Center the image */
     height: 400px; 
     width: 100%; 
     padding: 20px; 
@@ -358,6 +354,20 @@ img {
     border-radius: 30px; 
 }
 
+.research-background-image-container {
+    background-image: url('{{ site.baseurl }}/images/workflow.png'); /* Use the image from your front matter */
+    background-size: contain; /* Ensure the entire image is visible */
+    background-repeat: no-repeat; /* Avoid repeating the image */
+    background-position: center; /* Center the image */
+    height: 500px; /* Adjust as necessary for your layout */
+    width: 100%; 
+    margin: 0 auto; /* Center the container itself */
+    padding: 1px; 
+    box-sizing: border-box;
+    border-radius: 0px;
+}
+
+
 .project-table {
   table-layout: fixed;
   margin: 30px auto 0; /* Center the table and add 20px margin on top */
@@ -366,17 +376,22 @@ img {
 }
 
 .project-table td {
-  padding: 10px;
+  padding: 20px;
   text-align: left;
   vertical-align: middle;
 }
 
 .project-table td:first-child {
-  width: 40%; /* First column takes up 30% of the table's width */
+  width: 30%; /* First column takes up 30% of the table's width */
 }
 
 .project-table td:last-child {
-  width: 60%; /* Second column takes up 70% of the table's width */
+  width: 70%; /* Second column takes up 70% of the table's width */
+}
+
+.image-container {
+  width: 90%; /* Ensure the image container fills the table cell */
+  max-width: 300px; /* Optionally set a max width for the video */
 }
 
 
@@ -389,8 +404,99 @@ img {
   text-align: left;
 }
 
+
+
 .project-table p {
   font: 18px/1.5 $bodyFont;
+}
+
+
+h5 {
+    font-size: 20pxpx;  /* Change to your preferred size */
+    font-weight: bold; /* Optional: Makes it stand out more */
+}
+
+.project-table {
+  table-layout: fixed;
+  margin: 30px auto 0; /* Center the table and add 20px margin on top */
+  border-collapse: collapse; /* Collapse borders */
+  width: 100%; /* Ensure the table spans the full width of the container */
+}
+
+.project-table td {
+  padding: 20px;
+  text-align: left;
+  vertical-align: middle;
+}
+
+.member-table {
+  display: table;
+  width: 100%;
+  border-collapse: collapse;
+}
+
+.member-table tr {
+  display: table-row;
+  border-top: 2px solid #ccc; /* Adds a horizontal line between rows */
+}
+
+.member-table tr {
+  display: table-row;
+}
+
+.member-table td {
+  vertical-align: middle; /* Aligns content vertically in the middle */
+  text-align: left; /* Aligns text to the left */
+  padding: 20px; /* Adds spacing between cells */
+}
+
+.member-table td:first-child {
+  width: 30%; /* First column takes up 30% of the table's width */
+  text-align: center; /* Centers the image in the first column */
+}
+
+.member-table tr:first-child {
+  border-top: none; /* Do not display the border of the first entry */
+}
+
+.member-table td:last-child {
+  width: 70%; /* Second column takes up 70% of the table's width */
+}
+
+.image-container-member img {
+  width: 65%; /* Adjusts the image size to fit better */
+  max-width: 300px; /* Sets a maximum width */
+  border-radius: 50%; /* Makes the image circular */
+  border: 3px solid #000; /* Adds a solid border around the image */
+  display: block;
+  margin: auto; /* Centers the image in the cell */
+}
+
+.member-table h5 {
+  text-align: left;
+  margin: 0;
+}
+
+.member-table p {
+  font: 18px/1.5 $bodyFont;
+  margin: 5px 0 0;
+}
+
+.research-body-font {
+	font: 18px/1.5 $bodyFont;
+	text-indent: 2em;
+}
+
+
+
+.research-title-font {
+    text-align: center; /* Centers the text horizontally */
+    display: flex; /* Enables flexbox */
+    justify-content: center; /* Centers content horizontally */
+    align-items: center; /* Centers content vertically */
+    height: 100%; /* Ensures it takes up the full height of its container */
+	font: 25px $headerFont;
+	font-weight: bold;
 }
 
 /* New media query for small screens */
@@ -562,6 +668,23 @@ footer {
   font-family: "Lato", sans-serif;
   font-weight: 900;
   font-style: italic;
+}
+
+.avatar img {
+  float: left; /* Float the image to the left */
+  margin-right: 35px; /* Add space between the image and the text */
+  width: 200px; /* Adjust the size of the avatar */
+  height: auto; /* Maintain aspect ratio */
+  border-radius: 50%; /* Make the image circular */
+  border: 2px solid #000; /* Optional border */
+}
+
+.about-container {
+  overflow: hidden; /* Ensure container handles floating content properly */
+}
+
+.about-text {
+  flex: 1; /* Allows the text to take up the remaining space */
 }
 
 
