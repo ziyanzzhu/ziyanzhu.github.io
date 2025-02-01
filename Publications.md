@@ -11,21 +11,20 @@ permalink: /publications/
 <ul>
   <li>
     <strong>Microscopic theory for electron-phonon coupling in twisted bilayer graphene</strong><br>
-    <span> <u> Ziyan Zhu</u>, Thomas P. Devereaux</span><br>
+    <span> <u>Ziyan Zhu</u>, Thomas P. Devereaux</span><br>
     <span>arXiv:2407.03293 (2024)</span>
   </li>
   
   <li>
     <strong>Helical trilayer graphene: a moiré platform for strongly-interacting topological bands
 </strong><br>
-    <span>Li-Qiao Xia, Sergio C. de la Barrera, Aviram Uri, Aaron Sharpe, Yves H. Kwan, <u> Ziyan Zhu </u>, Kenji Watanabe, Takashi Taniguchi, David Goldhaber-Gordon, Liang Fu, Trithep Devakul, Pablo Jarillo-Herrero</span><br>
-    <span>Nature Physics, in press (2024)</span><br>
-    <span>arXiv:2310.12204</span>
+    <span>Li-Qiao Xia, Sergio C. de la Barrera, Aviram Uri, Aaron Sharpe, Yves H. Kwan, <u>Ziyan Zhu</u>, Kenji Watanabe, Takashi Taniguchi, David Goldhaber-Gordon, Liang Fu, Trithep Devakul, Pablo Jarillo-Herrero</span><br>
+    <span>Nature Physics, in press (2024) | arXiv:2310.12204</span>
   </li>
   
   <li>
     <strong>Opto-twistronic Hall effect in a three-dimensional spiral lattice</strong><br>
-    <span>Zhurun Ji, Yuzhou Zhao, Yicong Chen, <u> Ziyan Zhu </u>, Yuhui Wang, Wenjing Liu, Gaurav Modi, Eugene J. Mele, Song Jin, Ritesh Agarwal</span><br>
+    <span>Zhurun Ji, Yuzhou Zhao, Yicong Chen, <u> Ziyan Zhu</u>, Yuhui Wang, Wenjing Liu, Gaurav Modi, Eugene J. Mele, Song Jin, Ritesh Agarwal</span><br>
     <span>Nature 634, 69–73 (2024)</span><br>
     <span>DOI: 10.1038/s41586-024-07949-1 | arXiv:2312.10954</span>
   </li>
