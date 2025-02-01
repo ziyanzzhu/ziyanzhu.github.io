@@ -19,7 +19,8 @@ permalink: /publications/
     <strong>Helical trilayer graphene: a moiré platform for strongly-interacting topological bands
 </strong><br>
     <span>Li-Qiao Xia, Sergio C. de la Barrera, Aviram Uri, Aaron Sharpe, Yves H. Kwan, <u>Ziyan Zhu</u>, Kenji Watanabe, Takashi Taniguchi, David Goldhaber-Gordon, Liang Fu, Trithep Devakul, Pablo Jarillo-Herrero</span><br>
-    <span>Nature Physics, in press (2024) | arXiv:2310.12204</span>
+    <span>Nature Physics, in press (2024)</span> 
+	<span>arXiv:2310.12204</span>
   </li>
   
   <li>
