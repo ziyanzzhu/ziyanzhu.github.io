@@ -292,7 +292,7 @@ img {
     font-size: 16px; 
 
     @include mobile {
-      font-size: 12px;
+      font-size: 14px;
     }
 
     a {
@@ -375,6 +375,17 @@ img {
     padding: 20px; 
 	box-sizing: border-box;
     border-radius: 30px; 
+}
+	/* Mobile-specific adjustments */
+@media screen and (max-width: 768px) {
+	.index-background-image-container {
+	background-position: 50% 15%; /* Adjust image centering for mobile */
+	background-size: cover; /* Optional: Ensures full image is visible */
+	height: 300px; /* Reduce height for smaller screens */
+	border-radius: 10px; /* Slightly smaller border-radius on mobile */
+	
+	    }
+	
 }
 
 .publications-background-image-container {
