@@ -21,19 +21,18 @@ title: Join
 	
 	<ul>
 	    <li> <strong>Craft research projects that fit your goals: </strong>
-		I have board research interests and always open to new ideas. As long as you are interested in computational work and willing to learn, we can work together to design a project that excite you. For new students, we will do a short trial project with a concrete end goal for us to figure out if I am the right fit for you. 
+			I have board research interests and always am open to new ideas. As long as you are interested in computational work and willing to learn, we can work together to design a project that excites you. For new students, we will do a short trial project with a concrete end goal, allowing us to determine if we are a good fit. 
 		</li> 
 		
-		
 	    <li> <strong>Encourage independent work: </strong> 
-			While I will provide you with the initial direction, you are ultimately the captain of your project. In order to become a creative thinker, we need the time and space to explore and think (and even make mistakes), which I will do my best to provide you with. In the meantime, we will have weekly check-in meetings to make sure that things are progressing. </li>
+			While I will offer initial direction, you are ultimately the captain and owner of your project. Becoming a creative thinker requires time and space to explore, experiment, and even make mistakes. I will support you by fostering an environment that encourages independent thinking. In the meantime, we will have weekly check-in meetings to ensure steady progress. </li>
 		
 	    <li><strong>Help your work gain visibility: </strong>
-			You will present your work at conferences and publish papers regularly. Presentation and writing are among the most important skills that a scientist needs to have. I will help you make visially appealing figures, write and communicate clearly, and practice public speaking.  
+			You will have the opportunities present your work at conferences and publish papers regularly. Communication skills — both written and oral — are essential for every scientist. I will help you create visially appealing figures, write clearly, and develop strong public speaking skills.  
 		</li>
 		
 	    <li><strong>Your mental health matters! </strong>
-			Academic journey is long and hard. It is important to work at a sustainable pace, because happy people are the most productive. 
+			Academic journey is long and hard. It is important to work at a sustainable pace, because happy people tend to be the most productive. 
 		</li>
 		
 	</ul>

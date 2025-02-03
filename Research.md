@@ -12,7 +12,7 @@ permalink: /research/
 	They contain millions of atoms, and their complexity is further compounded by interactions with electrons, phonons (lattice vibrations), and other quasiparticles. These interactions result in an exponential increase in the system's dimensionality. Traditional theoretical models for quantum materials either require an impractically large amount of computational power or rely on overly crude approximations. 
 </p>
 <p class="research-body-font">
-	To address these challenges, we employ a hierarchical modeling approach that integrates first-principles density functional theory (DFT) calculations, low-energy continuum models, effective many-body models, and machine learning techniques. The combination of these approaches allows us to effectively model aperiodic systems and understand emergent properties. 
+	To address these challenges, we employ a hierarchical modeling approach that integrates first-principles density functional theory (DFT) calculations, low-energy continuum models, effective many-body models, and machine learning techniques. The combination of these approaches allows us to effectively model aperiodic systems and understand their emergent properties. 
 </p>
 
 <div class="research-background-image-container"></div>
