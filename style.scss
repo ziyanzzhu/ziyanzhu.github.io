@@ -196,8 +196,12 @@ em, i {
   font-style: italic;
 }
 
-strong, b {
+ b {
   font-weight: bold;
+}
+
+strong {
+  font-weight: 500;
 }
 
 img {
@@ -292,7 +296,7 @@ img {
     font-size: 16px; 
 
     @include mobile {
-      font-size: 14px;
+      font-size: 16px;
     }
 
     a {
@@ -413,7 +417,7 @@ img {
 
 }
 
-	@media screen and (max-width: 768px) {
+	@media screen and (max-width: 500px) {
 	    .research-background-image-container {
 	        height: 210px; /* Reduce height for smaller screens */
 	        background-size: cover; /* Ensures the image fully covers the container */
@@ -565,6 +569,7 @@ h5 {
     width: 100%; /* Make text take full width on mobile */
     text-align: center; /* Center text */
 	font-size: 17px;
+	font-weight: 400;
 
   }
 
@@ -590,12 +595,15 @@ h5 {
 	text-indent: 2em;
 	
 	
-	@include mobile {
-	        font-size: 17px; /* Reduce font size for mobile screens */
-			text-indent: 1em;
-	    }
+
 }
 
+@media screen and (max-width: 768px){
+	.research-body-font { 
+        font-size: 17px; /* Reduce font size for mobile screens */
+		text-indent: 1em;
+	}
+}
 
 .research-title-font {
     text-align: center; /* Centers the text horizontally */
@@ -606,10 +614,18 @@ h5 {
 	font: 25px $headerFont;
 	font-weight: bold;
 	
-	@include mobile {
-	        font-size: 18px; /* Reduce font size for mobile screens */
-	    }
+//	@include mobile {
+//	        font-size: 18px; /* Reduce font size for mobile screens */
+//	    }
 }
+
+
+@media screen and (max-width: 768px){
+	.research-title-font { 
+        font-size: 18px; /* Reduce font size for mobile screens */
+	}
+}
+
 
 /* New media query for small screens */
 @media screen and (max-width: 768px) {
@@ -639,7 +655,7 @@ h5 {
   }
 
   .image-container {
-    max-width: 60%; /* Allow the video to take up the full width */
+    max-width: 40%; /* Allow the video to take up the full width */
 	margin: 0 auto;
 	text-align: center;
   }

@@ -36,7 +36,7 @@ permalink: /research/
   <tr>
       <td>
           <div class="image-container">
-            <img src="/images/wannier.png" alt="relax" style="display: block;">
+            <img src="/images/wannier.png" alt="wannier" style="display: block;">
           </div>
       </td>
       <td>

@@ -33,20 +33,32 @@ title: About
 ### Bio
 
 <div class="education">
+	
+    <!-- <div class="institution">
+        <div class="details">
+
+            <h5>Boston College </h5>
+            <p>Assistant Professor of Physics</p>
+        </div>
+        <div class="date">Jul 2025 — </div>
+    </div> -->
+	
     <div class="institution">
         <div class="details">
+			
             <h5>Stanford University / SLAC </h5>
             <p>Stanford Science Fellow</p>
         </div>
-        <div class="date">Sep 2022 - current</div>
+        <div class="date">Sep 2022 — current</div>
     </div>
+	
     <div class="institution">
         <div class="details">
             <h5>Harvard University</h5>
             <p>Ph.D. in Physics with a secondary field in Computational Science and Engineering</p>
             <p>M.A. in Physics</p>
         </div>
-        <div class="date">Sep 2017 - May 2022</div>
+        <div class="date">Sep 2017 — May 2022</div>
     </div>
 
     <div class="institution">
@@ -54,7 +66,7 @@ title: About
             <h5>University of California, Los Angeles</h5>
             <p>B.Sc. in Physics and Applied Mathematics, Minor in Art History</p>
         </div>
-        <div class="date">Sep 2013 - Jun 2017</div>
+        <div class="date">Sep 2013 — Jun 2017</div>
     </div>
 </div>
 
