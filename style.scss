@@ -594,14 +594,25 @@ h5 {
 	font: 18px/1.5 $bodyFont;
 	text-indent: 2em;
 	
-	
-
 }
 
 @media screen and (max-width: 768px){
 	.research-body-font { 
         font-size: 17px; /* Reduce font size for mobile screens */
 		text-indent: 1em;
+	}
+}
+
+.list-body-font {
+	font: 18px/1.5 $bodyFont;
+	text-indent: 0em;
+	
+}
+
+@media screen and (max-width: 768px){
+	.list-body-font { 
+        font-size: 17px; /* Reduce font size for mobile screens */
+		text-indent: 0em;
 	}
 }
 

@@ -14,12 +14,12 @@ title: Join
 
 ## Mentoring philosophy
 
-<p class="research-body-font">
+<p class="list-body-font">
 	
 	As a mentor, my number one priority is to make sure that you are happy and achieving your goals.
 	To do so, I will: 
 	
-	<ul class="research-body-font">
+	<ul class="list-body-font">
 	    <li> <strong>Craft research projects that fit your goals: </strong>
 			I have board research interests and always am open to new ideas. As long as you are interested in computational work and willing to learn, we can work together to design a project that excites you. For new students, we will do a short trial project with a concrete end goal, allowing us to determine if we are a good fit. 
 		</li> 
