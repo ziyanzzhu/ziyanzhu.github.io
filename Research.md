@@ -8,7 +8,8 @@ permalink: /research/
 
 <p class="research-body-font">
 	
-	Realistic quantum materials are often large and aperiodic. In addition to containing millions of atoms, their complexity is further compounded by interactions between electrons, phonons (lattice vibrations), and other quasiparticles, which cause the system’s dimensionality to grow exponentially. Traditional theoretical models for quantum materials either require an impractically large amount of computational power or rely on overly crude approximations. 
+	Realistic quantum materials are often large and aperiodic. 
+	They contain millions of atoms, and their complexity is further compounded by interactions with electrons, phonons (lattice vibrations), and other quasiparticles. These interactions result in an exponential increase in the system's dimensionality. Traditional theoretical models for quantum materials either require an impractically large amount of computational power or rely on overly crude approximations. 
 </p>
 <p class="research-body-font">
 	To address these challenges, we employ a hierarchical modeling approach that integrates first-principles density functional theory (DFT) calculations, low-energy continuum models, effective many-body models, and machine learning techniques. The combination of these approaches allows us to effectively model aperiodic systems and understand emergent properties. 

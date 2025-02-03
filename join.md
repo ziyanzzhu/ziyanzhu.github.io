@@ -32,23 +32,13 @@ title: Join
 			You will present your work at conferences and publish papers regularly. Presentation and writing are among the most important skills that a scientist needs to have. I will help you make visially appealing figures, write and communicate clearly, and practice public speaking.  
 		</li>
 		
+	    <li><strong>Your mental health matters! </strong>
+			Academic journey is long and hard. It is important to work at a sustainable pace, because happy people are the most productive. 
+		</li>
+		
 	</ul>
 
-	
 
-	<p class="research-body-font">
-
-	- <strong>Your mental health matters to me! </strong> The academic journey is long and hard. It is important to work at a sustainable pace, because happy people are the most productive. 
-	
-	</p>
-	
-	
-	<p class="research-body-font">
-
-	My expectations for you are: 
-	</p>
-	
-	
 	
 </p>
 
