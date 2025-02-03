@@ -564,7 +564,7 @@ h5 {
   .member-table td:last-child {
     width: 100%; /* Make text take full width on mobile */
     text-align: center; /* Center text */
-	font-size:17px;
+	font-size: 17px;
 
   }
 
@@ -581,6 +581,7 @@ h5 {
     font-size: 17px; /* Reduce font size to 17px in mobile */
     text-align: center; /* Ensure text is centered */
     margin: 10px auto; /* Space between text elements */
+	font-weight: 400;
   }
 }
 
@@ -808,6 +809,7 @@ footer {
 }
 
 .about-text {
+  font-weight:400;
   flex: 1; /* Allows the text to take up the remaining space */
 }
 

@@ -16,4 +16,6 @@ title: Join
 
 <p class="research-body-font">
 	
+	As a mentor, my number one priority is make sure that you are happy and achieving your goals. 
+	
 </p>
