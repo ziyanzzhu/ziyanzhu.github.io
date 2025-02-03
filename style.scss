@@ -159,6 +159,23 @@ ul, ol {
   padding-left: 30px;
 }
 
+
+@media screen and (max-width: 768px) {
+    ul {
+        font-size: 17px; /* Set font size to 17px for mobile */
+        line-height: 1.2; /* Adjust line spacing for smaller font size */
+    }
+
+    ul li {
+        margin-bottom: 10px; /* Add spacing between list items for readability */
+    }
+
+    ul span, ul strong {
+        font-size: 17px; /* Ensure nested elements also follow the font size */
+    }
+}
+
+
 ul {
   list-style-type: disc;
 }
@@ -235,10 +252,11 @@ img {
   
 
   @include mobile {
-    flex-direction: row;
-    flex-wrap: wrap; 
-    text-align: center;
-  }
+      flex-direction: column; /* Stack elements vertically */
+      align-items: center; /* Center elements */
+      text-align: center;
+    }
+  
 
   .site-name {
 	font-family: $titleFont;
@@ -252,9 +270,11 @@ img {
     border-top: 0px solid $headerBorderColor;
     letter-spacing: 0px;
 	
-	@include mobile {
-	   font-size: 24px; /* Adjust font size for smaller screens */
-	}
+    @include mobile {
+         font-size: 24px; /* Adjust font size for smaller screens */
+         width: 100%; /* Ensure it takes the full width */
+         text-align: center;
+       }
 	
 	a {
 	   text-decoration: underline;
@@ -272,7 +292,7 @@ img {
     font-size: 16px; 
 
     @include mobile {
-      font-size: 14px;
+      font-size: 12px;
     }
 
     a {
@@ -332,6 +352,20 @@ img {
     }
 }
 
+
+/* Mobile-specific adjustments */
+@media screen and (max-width: 768px) {
+    .institution {
+        flex-direction: column; /* Stack elements vertically */
+    }
+
+    .date {
+        width: 100%; /* Ensure date moves to a new line */
+        text-align: left; /* Keep it aligned to the left */
+        margin-top: 5px; /* Ensure spacing */
+    }
+}
+
 .index-background-image-container {
     background-image: url('{{ site.baseurl }}/images/image2.png'); /* Use the image from your front matter */
     background-size: cover; /* Cover the entire area */
@@ -365,6 +399,16 @@ img {
     padding: 1px; 
     box-sizing: border-box;
     border-radius: 0px;
+
+}
+
+	@media screen and (max-width: 768px) {
+	    .research-background-image-container {
+	        height: 210px; /* Reduce height for smaller screens */
+	        background-size: cover; /* Ensures the image fully covers the container */
+	        padding: 1px; /* Remove blank padding in mobile mode */
+	        margin: 0 auto; /* Ensure no additional margins create gaps */
+	    }
 }
 
 
@@ -482,11 +526,63 @@ h5 {
   margin: 5px 0 0;
 }
 
+/* Mobile Adjustments */
+@media screen and (max-width: 768px) {
+  .member-table {
+    display: block; /* Makes the table responsive */
+    width: 100%;
+  }
+
+  .member-table tr {
+    display: block; /* Stack rows as block elements */
+    margin-bottom: 18px; /* Adds spacing between entries */
+  }
+
+  .member-table td {
+    display: block; /* Stack table cells */
+    width: 100%; /* Ensure full width */
+    text-align: center; /* Centers all text */
+    padding: 10px 0; /* Reduce padding for mobile */
+  }
+
+  .member-table td:first-child {
+    width: 100%; /* Make image take full width on mobile */
+    text-align: center; /* Keep image centered */
+  }
+
+  .member-table td:last-child {
+    width: 100%; /* Make text take full width on mobile */
+    text-align: center; /* Center text */
+	font-size:17px;
+
+  }
+
+  .image-container-member img {
+    width: 60%; /* Adjust image size for mobile */
+    max-width: 200px; /* Prevent overly large images */
+  }
+
+  .member-table h5 {
+    text-align: center; /* Center heading on mobile */
+  }
+
+  .member-table p {
+    font-size: 17px; /* Reduce font size to 17px in mobile */
+    text-align: center; /* Ensure text is centered */
+    margin: 10px auto; /* Space between text elements */
+  }
+}
+
 .research-body-font {
 	font: 18px/1.5 $bodyFont;
 	text-indent: 2em;
+	
+	
+	@include mobile {
+	        font-size: 17px; /* Reduce font size for mobile screens */
+			text-indent: 1em;
+	    }
 }
-
 
 
 .research-title-font {
@@ -497,6 +593,10 @@ h5 {
     height: 100%; /* Ensures it takes up the full height of its container */
 	font: 25px $headerFont;
 	font-weight: bold;
+	
+	@include mobile {
+	        font-size: 18px; /* Reduce font size for mobile screens */
+	    }
 }
 
 /* New media query for small screens */
@@ -504,26 +604,39 @@ h5 {
   .project-table, .project-table tr {
     display: block;
     width: 100%;
+	
   }
+  
+  .project-table h5 {
+      text-align: center; /* Centers the title */
+      font-size: 20px; /* Optional: Adjust the font size for smaller screens */
+      margin: 10px auto; /* Centers the title vertically within its container */
+      line-height: 1.4; /* Adjust line spacing for better readability */
+    }
 
   .project-table td {
     display: block;
     width: 100%;
     padding: 10px 0;
+	text-indent: 1em;
   }
+  
 
   .project-table td:first-child, .project-table td:last-child {
     width: 100%;
   }
 
-  .video-container {
-    max-width: 100%; /* Allow the video to take up the full width */
+  .image-container {
+    max-width: 60%; /* Allow the video to take up the full width */
+	margin: 0 auto;
+	text-align: center;
   }
   
   .project-table p {
     border-bottom: 1px solid $underlineColor; /* Light gray line */
     padding-bottom: 20px; /* Add some space between the text and the line */
     margin-bottom: 10px; /* Add some space after the line */
+	font-size: 17px;
   }
 }
 ///
@@ -687,6 +800,26 @@ footer {
   flex: 1; /* Allows the text to take up the remaining space */
 }
 
+
+@media screen and (max-width: 768px) {
+  .avatar img {
+    float: none; /* Remove floating */
+    display: block; /* Ensure it's treated as a block element */
+    margin: 0 auto 15px auto; /* Center the image horizontally and add bottom space */
+  }
+
+  .about-container {
+    flex-direction: column; /* Stack elements vertically */
+    align-items: flex-start; /* Align text to the left */
+  }
+
+  .about-text {
+    font-size: 17px; /* Adjust font size for mobile */
+    line-height: 1.5; /* Improve readability */
+    text-align: left; /* Ensure text remains left-aligned */
+    width: 100%; /* Make sure text container takes full width */
+  }
+}
 
 // Settled on moving the import of syntax highlighting to the bottom of the CSS
 // ... Otherwise it really bloats up the top of the CSS file and makes it difficult to find the start

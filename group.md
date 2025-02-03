@@ -11,11 +11,11 @@ title: About
   </div>
   <div class="about-text">
     <p>
-      My name is Zoe Zhu. I am a computational condensed matter physicist. I am also broadly interested in plasma physics, geophysical fluid dynamics/climate science, and applied math. 
+     I am a computational condensed matter physicist. I am also broadly interested in plasma physics, geophysical fluid dynamics/climate science, and applied math. 
     </p>
 	
     <p>
-  	  Starting Fall 2025, I am joining Boston College as an Assistant Professor in Physics.  
+  	 Starting Fall 2025, I am joining Boston College as an Assistant Professor in Physics.  
      I am currently a Stanford Science Fellow, working with Prof. Thomas P. Devereaux. 
      I obtained my Ph.D. in physics at Harvard with Prof. Efthimios Kaxiras.
     </p>

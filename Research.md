@@ -20,7 +20,6 @@ permalink: /research/
 
 
 
-
 ## Research Areas
 <table class="project-table">
     <tr>
@@ -42,7 +41,7 @@ permalink: /research/
       </td>
       <td>
           <h5>Many-body models for quantum materials</h5>
-          <p> Understanding correlated phases of matter, such as superconductivity, requires accounting for strong electron interactions. To bridge theory with experiment, we construct effective lattice models based on parameters derived from our DFT-based multi-scale framework. We then solve these models using unbiased numerical methods, including exact diagonalization (ED) and determinant quantum Monte Carlo (DQMC). </p>
+          <p> Understanding correlated phases of matter, such as superconductivity, requires accounting for strong electron interactions. To bridge theory with experiment, we construct effective lattice models based on parameters derived from our DFT-based multi-scale framework. We then solve these models using unbiased numerical methods, including exact diagonalization (ED), determinant quantum Monte Carlo (DQMC), and machine learning. </p>
       </td>
   </tr>
  
