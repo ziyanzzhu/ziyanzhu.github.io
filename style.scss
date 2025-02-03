@@ -306,7 +306,7 @@ img {
       letter-spacing: 1px;
 
       @include mobile {
-        margin: 0 7px;
+        margin: 0 12px;
       	}
   	}
   	a.active {
@@ -420,7 +420,7 @@ img {
 	@media screen and (max-width: 500px) {
 	    .research-background-image-container {
 	        height: 210px; /* Reduce height for smaller screens */
-	        background-size: cover; /* Ensures the image fully covers the container */
+	        background-size: contain; /* Ensures the image fully covers the container */
 	        padding: 1px; /* Remove blank padding in mobile mode */
 	        margin: 0 auto; /* Ensure no additional margins create gaps */
 	    }
