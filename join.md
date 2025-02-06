@@ -13,7 +13,7 @@ We have openings for postdocs, graduate students, and undergraduate students.
  	<li> <strong>Postdocs</strong>: We have an opening for postdoctoral scholar. See details <a href="{{ site.baseurl }}/ad.pdf" target="_blank">here</a>. 
 	</li> 
 	
- 	<li> <strong>Graduate students</strong>: Perspective students can apply <a href="https://www.bc.edu/content/bc-web/schools/morrissey/departments/physics/graduate/application-information.html" target="_blank">here</a>. 
+ 	<li> <strong>Graduate students</strong>: Perspective students can apply through the department website <a href="https://www.bc.edu/content/bc-web/schools/morrissey/departments/physics/graduate/application-information.html" target="_blank">here</a>. 
 		If you are an admitted student, you are welcome to contact me at <a href="mailto:ziyan.zhu@bc.edu">ziyan.zhu@bc.edu</a> to discuss potential research projects. 
 	</li>
 	
