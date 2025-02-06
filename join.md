@@ -6,10 +6,23 @@ title: Join
 ## Openings
 
 <p class="research-body-font">
-	We have openings for undergraduate student, graduate students, and postdocs. 
-	Interested applicants should email <a href="mailto:ziyanzhu@stanford.edu">ziyanzhu@stanford.edu</a> / 
-      <a href="mailto:ziyan.zhu@bc.edu">ziyan.zhu@bc.edu</a>. for more information. 
+	<ul class="list-body-font">
+		
+ 	<li> <strong>Postdocs</strong>: We have an opening for postdoctoral scholar. See details <a href="{{ site.baseurl }}/ad.pdf" target="_blank">here</a>. 
+	</li> 
+	
+ 	<li> <strong>Graduate students</strong>: Perspective students can apply <a href="https://www.bc.edu/content/bc-web/schools/morrissey/departments/physics/graduate/application-information.html" target="_blank">here</a>. 
+		If you are an admitted student, you are welcome to contact me at <a href="mailto:ziyan.zhu@bc.edu">ziyan.zhu@bc.edu</a> to discuss potential research projects. 
+	</li>
+	
+ 	<li> <strong>Undergraduate students</strong>: If you are an undergraduate student interested in computational physics (at BC or outside of BC), you are welcome to contact me to <a href="mailto:ziyan.zhu@bc.edu">ziyan.zhu@bc.edu</a> to discuss potential projects. In the email, please include your most recent transcript and briefly explain your research interests. 
+	</li>
+	
+	
+	 
+	 </ul>
 </p>
+
 
 
 ## Mentoring philosophy
