@@ -6,8 +6,10 @@ title: Join
 ## Openings
 
 <p class="research-body-font">
+	
+We have openings for postdocs, graduate students, and undergraduate students. 
+
 	<ul class="list-body-font">
-		
  	<li> <strong>Postdocs</strong>: We have an opening for postdoctoral scholar. See details <a href="{{ site.baseurl }}/ad.pdf" target="_blank">here</a>. 
 	</li> 
 	
