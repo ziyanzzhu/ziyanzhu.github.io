@@ -19,7 +19,7 @@ We have openings for postdocs, graduate students, and undergraduate students.
 		If you are an admitted student, you are welcome to contact me at <a href="mailto:ziyan.zhu@bc.edu">ziyan.zhu@bc.edu</a> to discuss potential research projects. 
 	</li>
 	
- 	<li> <strong>Undergraduate students</strong>: If you are an undergraduate student interested in computational physics (at BC or outside of BC), you are welcome to contact me to <a href="mailto:ziyan.zhu@bc.edu">ziyan.zhu@bc.edu</a> to discuss potential projects. In the email, please include your most recent transcript and briefly explain your research interests. 
+ 	<li> <strong>Undergraduate students</strong>: If you are an undergraduate student interested in computational physics (at BC or outside of BC), you are welcome to contact me at <a href="mailto:ziyan.zhu@bc.edu">ziyan.zhu@bc.edu</a> to discuss potential projects. In the email, please include your most recent transcript and briefly explain your research interests. 
 	</li>
 	
 </ul>
