@@ -5,11 +5,12 @@ title: Join
 
 ## Openings
 
-<p class="research-body-font">
-	
-We have openings for postdocs, graduate students, and undergraduate students. 
 
-	<ul class="list-body-font">
+	
+
+<ul class="list-body-font">
+We have openings for postdocs, graduate students, and undergraduate students. 
+	
  	<li> <strong>Postdocs</strong>: We have an opening for postdoctoral scholar. See details <a href="{{ site.baseurl }}/ad.pdf" target="_blank">here</a>. 
 	</li> 
 	
@@ -20,10 +21,8 @@ We have openings for postdocs, graduate students, and undergraduate students.
  	<li> <strong>Undergraduate students</strong>: If you are an undergraduate student interested in computational physics (at BC or outside of BC), you are welcome to contact me to <a href="mailto:ziyan.zhu@bc.edu">ziyan.zhu@bc.edu</a> to discuss potential projects. In the email, please include your most recent transcript and briefly explain your research interests. 
 	</li>
 	
-	
-	 
-	 </ul>
-</p>
+</ul>
+
 
 
 
