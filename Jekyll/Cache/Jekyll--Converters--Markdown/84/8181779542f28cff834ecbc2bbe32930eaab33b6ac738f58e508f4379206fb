@@ -1,0 +1,310 @@
+I"�8<!--div class="publications-background-image-container"></div-->
+
+<h2 id="2024">2024</h2>
+<div class="pub-list">
+	
+</div>
+<h2 id="2024-1">2024</h2>
+<div class="pub-list">
+
+<ul>
+  <li>
+    <strong>Microscopic theory for electron-phonon coupling in twisted bilayer graphene</strong><br />
+    <span> <u>Ziyan Zhu</u>, Thomas P. Devereaux</span><br />
+    <span>arXiv:2407.03293 (2024)</span>
+  </li>
+  
+  <li>
+    <strong>Helical trilayer graphene: a moiré platform for strongly-interacting topological bands
+</strong><br />
+    <span>Li-Qiao Xia, Sergio C. de la Barrera, Aviram Uri, Aaron Sharpe, Yves H. Kwan, <u>Ziyan Zhu</u>, Kenji Watanabe, Takashi Taniguchi, David Goldhaber-Gordon, Liang Fu, Trithep Devakul, Pablo Jarillo-Herrero</span><br />
+    <span>Nature Physics, in press (2024)</span><br />
+	<span>arXiv:2310.12204</span>
+  </li>
+  
+  <li>
+    <strong>Opto-twistronic Hall effect in a three-dimensional spiral lattice</strong><br />
+    <span>Zhurun Ji, Yuzhou Zhao, Yicong Chen, <u> Ziyan Zhu</u>, Yuhui Wang, Wenjing Liu, Gaurav Modi, Eugene J. Mele, Song Jin, Ritesh Agarwal</span><br />
+    <span>Nature 634, 69–73 (2024)</span><br />
+    <span>DOI: 10.1038/s41586-024-07949-1 | arXiv:2312.10954</span>
+  </li>
+  
+  <li>
+    <strong>Particle-hole asymmetry ferromagnetism and spin textures in the triangular Hubbard-Hofstadter model</strong><br />
+    <span>Jixun K. Ding, Luhang Yang, Wen O. Wang, <u>Ziyan Zhu</u>, Cheng Peng, Peizhi Mai, Edwin W. Huang, Brian Moritz, Phillip W. Phillips, Benjamin E. Feldman, Thomas P. Devereaux</span><br />
+    <span>Physical Review X, 14, 041025 (2024)</span><br />
+    <span>DOI: 10.1103/PhysRevX.14.041025 | arXiv:2309.07876</span>
+  </li>
+  
+  <li>
+    <strong>Multi-moiré trilayer graphene: lattice relaxation, electronic structure, and magic angles</strong><br />
+    <span>Charles Yang, Julian May-Mann, <u>Ziyan Zhu</u>, Trithep Devakul</span><br />
+    <span>Physical Review B 110, 115344 (Editors’ Suggestion) (2024)</span><br />
+    <span>DOI: 10.1103/PhysRevB.110.115344 | arXiv:2310.12961</span>
+  </li>
+  
+  <li>
+    <strong>Tunable inter-moiré physics in consecutively twisted trilayer graphene</strong><br />
+    <span>Wei Ren, Konstantin Davydov, <u>Ziyan Zhu</u>, Jaden Ma, Kenji Watanabe, Takashi Taniguchi, Efthimios Kaxiras, Mitchell Luskin, Ke Wang</span><br />
+    <span>Physical Review B 110, 115404 (Editors’ Suggestion) (2024)</span><br />
+    <span>DOI: 10.1103/PhysRevB.110.115404 | arXiv:2311.10313</span>
+  </li>
+
+  <li>
+    <strong>Twisto-electrochemical activity volcanoes in trilayer graphene</strong><br />
+    <span>Mohammad Babar, <u> Ziyan Zhu</u>, Rachel Kurchin, Efthimios Kaxiras, Venkatasubramanian Viswanathan</span><br />
+    <span>Journal of American Chemical Society 2024, 146, 23, 16105–16111 (2024)</span><br />
+    <span>DOI: 10.1021/jacs.4c03464 | arXiv:2306.00208</span>
+  </li>
+
+  <li>
+    <strong>Local atomic stacking and symmetry in twisted graphene trilayers</strong><br />
+    <span>Isaac M. Craig, Madeline Van Winkle, Catherine Groschner, Kaidi Zhang, Nikita Dowlatshahi, Ziyan Zhu, Takashi Taniguchi, Kenji Watanabe, Sinéad M. Griffin, D. Kwabena Bediako</span><br />
+    <span>Nature Materials, 23, 323–330 (2024)</span><br />
+    <span>DOI: 10.1038/s41563-023-01783-y | arXiv:2303.09662</span>
+  </li>
+
+  <li>
+    <strong>Tunable atomically enhanced moiré Berry curvatures in twisted triple bilayer graphene</strong><br />
+    <span>Konstantin Davydov, <u>Ziyan Zhu</u>, Noah Friedman, Ethan Gramowski, Yaotian Li, Jack Tavakley, Kenji Watanabe, Takashi Taniguchi, Mitchell Luskin, Efthimios Kaxiras, Ke Wang</span><br />
+    <span>arXiv:2408.05708 (2024)</span>
+  </li>
+
+  <li>
+    <strong>Macroscopic uniform 2D moiré superlattices with controllable angles</strong><br />
+    <span>Gregory Zaborski Jr., Paulina E. Majchrzak, Samuel Lai, Amalya C. Johnson, Ashley P. Saunders, <u>Ziyan Zhu</u>, Yujun Deng, Donghui Lu, Makoto Hashimoto, Z-X Shen, Fang Liu</span><br />
+    <span>arXiv:2407.02600 (2024)</span>
+  </li>
+
+  <li>
+    <strong>Electron collimation in twisted bilayer graphene via gate-defined moiré barriers</strong><br />
+    <span>Wei Ren, Xi Zhang, <u>Ziyan Zhu</u>, Moosa Khan, Kenji Watanabe, Takashi Taniguchi, Efthimios Kaxiras, Mitchell Luskin, Ke Wang</span><br />
+    <span>arXiv:2404.00519 (2024)</span>
+  </li>
+
+
+</ul>
+
+</div>
+
+<h2 id="2023">2023</h2>
+
+<div class="pub-list">
+<ul>
+    <li>
+      <strong>HubbardNet: efficient predictions of the Bose-Hubbard model spectrum with deep neural networks</strong><br />
+      <span><u> Ziyan Zhu</u>, Marios Mattheakis, Weiwei Pan, Efthimios Kaxiras</span><br />
+      <span>Physical Review Research 5, 043084 (2023)</span><br />
+      <span>DOI: 10.1103/PhysRevResearch.5.043084 | arXiv:2212.13678</span>
+    </li>
+
+    <li>
+      <strong>Topology of rotating stratified fluids with and without background shear flow</strong><br />
+      <span><u> Ziyan Zhu</u>, Christopher Li, J. B. Marston</span><br />
+      <span>Physical Review Research 5, 033191 (2023)</span><br />
+      <span>DOI: 10.1103/PhysRevResearch.5.033191 | arXiv:2112.04691</span>
+    </li>
+	
+    <li>
+      <strong>Pressure-enhanced fractional Chern insulators in moiré transition metal dichalcogenides along a magic line</strong><br />
+      <span>Nicolás Morales-Durán, Jie Wang, Gabriel R. Schleder, Mattia Angeli, <u>Ziyan Zhu</u>, Efthimios Kaxiras, Cécile Repellin, Jennifer Cano</span><br />
+      <span>Physical Review Research 5, L503222 (Editors’ Suggestion) (2023)</span><br />
+      <span>DOI: 10.1103/PhysRevResearch.5.L503222 | arXiv:2304.06669</span>
+    </li>
+
+
+    <li>
+      <strong>Anomalous interfacial electron-transfer kinetics in twisted trilayer graphene caused by layer-specific localization</strong><br />
+      <span>Kaidi Zhang, Yun Yu, Stephen Carr, Mohammad Babar, <u>Ziyan Zhu</u>, Bryan Junsuh Kim, Catherine Groschner, Nikta Khaloo, Takashi Taniguchi, Kenji Watanabe, Venkatasubramanian Viswanathan, D. Kwabena Bediako</span><br />
+      <span>ACS Central Science 2023, 9, 6, 1119-1128 (2023)</span><br />
+      <span>DOI: 10.1021/acscentsci.3c00326 | arXiv:2303.09529</span>
+    </li>
+
+    <li>
+      <strong>Domain-dependent surface adhesion in twisted few-layer graphene: platform for moiré-assisted chemistry</strong><br />
+      <span>Valerie Hsieh, Dorri Halbertal, Nathan R. Finney, <u>Ziyan Zhu</u>, Eli Gerber, Michele Pizzochero, Emine Kucukbenli, Gabriel R. Schleder, Mattia Angeli, Kenji Watanabe, Takashi Taniguchi, Eun-Ah Kim, Efthimios Kaxiras, James Hone, Cory R. Dean, D. N. Basov</span><br />
+      <span>Nano Letter 2023, 23, 8, 3137–3143 (2023)</span><br />
+      <span>DOI: 10.1021/acs.nanolett.2c04137 | arXiv:2210.10843 </span>
+    </li>
+	
+    <li>
+      <strong>Harnessing excitons at the nanoscale – photoelectrical platform for quantitative sensing and imaging</strong><br />
+      <span>Zhurun Ji, Mark E. Barber, <u>Ziyan Zhu</u>, Carlos R. Kometter, Jiachen Yu, Kenji Watanabe, Takashi Taniguchi, Mengkun Liu, Thomas P. Devereaux, Ben Feldman, Zhixun Shen</span><br />
+      <span>arXiv:2311.04211 (2023)</span>
+    </li>
+
+    <li>
+      <strong>Electronic ratchet effect in a moiré system: signatures of excitonic ferroelectricity</strong><br />
+      <span>Zhiren Zheng, Xueqiao Wang, <u>Ziyan Zhu</u>, Stephen Carr, Trithep Devakul, Sergio de la Barrera, Nisarga Paul, Zumeng Huang, Anyuan Gao, Yang Zhang, Damien Bérubé, Kathryn Natasha Evancho, Kenji Watanabe, Takashi Taniguchi, Liang Fu, Yao Wang, Su-Yang Xu, Efthimios Kaxiras, Pablo Jarillo-Herrero, Qiong Ma</span><br />
+      <span>arXiv:2306.03922 (2023)</span>
+    </li>
+</ul>
+
+</div>
+
+<h2 id="2022">2022</h2>
+
+<div class="pub-list">
+	
+<ul>
+    <li>
+      <strong>Electric field-tunable layer polarization in graphene/boron nitride twisted quadrilayer superlattices</strong><br />
+      <span><u> Ziyan Zhu</u>, Stephen Carr, Qiong Ma, Efthimios Kaxiras</span><br />
+      <span>Physical Review B 106, 205134 (2022)</span><br />
+      <span>DOI: 10.1103/PhysRevB.106.205134 | arXiv:2209.10636</span>
+    </li>
+
+    <li>
+      <strong>Low-energy moiré phonons in twisted bilayer van der Waals heterostructures</strong><br />
+      <span>Jonathan Lu, <u>Ziyan Zhu</u>, Mattia Angeli, Daniel T. Larson, Efthimios Kaxiras</span><br />
+      <span>Physical Review B 106, 144305 (2022)</span><br />
+      <span>DOI: 10.1103/PhysRevB.106.144305 | arXiv:2207.04965</span>
+    </li>
+	
+  	<li>
+      <strong>Gate-tunable Veselago interference in a bipolar graphene microcavity</strong><br />
+      <span>Xi Zhang, Wei Ren, Elliot Bell, <u>Ziyan Zhu</u>, Kenji Watanabe, Takashi Taniguchi, Efthimios Kaxiras, Mitchell Luskin, Ke Wang</span><br />
+      <span>Nature Communications 13, 6711 (2022)</span><br />
+      <span>DOI: 10.1038/s41467-022-34347-w | arXiv:2106.09651</span>
+    </li>
+
+    <li>
+      <strong>Orderly disorder in magic-angle twisted trilayer graphene</strong><br />
+      <span>Simon Turkel, Joshua Swann, <u>Ziyan Zhu</u>, Maine Christos, Kenji Watanabe, Takashi Taniguchi, Subir Sachdev, Mathias S Scheurer, Efthimios Kaxiras, Cory R Dean, Abhay N Pasupathy</span><br />
+      <span>Science 376 (6589), 193-199 (2022)</span><br />
+      <span>DOI: 10.1126/science.abk1895 | arXiv:2109.12631</span>
+    </li>
+
+</ul>
+
+</div>
+
+<h2 id="2021">2021</h2>
+
+<div class="pub-list">
+<ul>  
+	
+
+  <li>
+    <strong>Correlated insulating states and transport signature of superconductivity in twisted trilayer graphene superlattices</strong><br />
+    <span>Xi Zhang, Kan-Ting Tsai, <u>Ziyan Zhu</u>, Wei Ren, Yujie Luo, Stephen Carr, Mitchell Luskin, Efthimios Kaxiras, Ke Wang</span><br />
+    <span>Physical Review Letters 127, 166802 (Editors' Suggestion) (2021)</span><br />
+    <span>DOI: 10.1103/PhysRevLett.127.166802 | arXiv:1912.03375</span>
+  </li>
+
+  <li>
+    <strong>Spectroscopic signatures of interlayer coupling in Janus MoSSe/MoS2 heterostructures</strong><br />
+    <span>Kunyuan Zhang, Yunfan Guo, Daniel T. Larson, <u>Ziyan Zhu</u>, Shiang Fang, Efthimios Kaxiras, Jing Kong, Shengxi Huang</span><br />
+    <span>ACS Nano 2021, 15, 9, 14394-14403 (2021)</span><br />
+    <span>DOI: 10.1021/acsnano.1c03779 | arXiv:2108.10995</span>
+  </li>
+  
+  <li>
+    <strong>TB or not TB? Contrasting properties of twisted bilayer graphene and the alternating twist n-layer structures (n = 3, 4, 5, ...)</strong><br />
+    <span>Patrick J. Ledwith, Eslam Khalaf, <u>Ziyan Zhu</u>, Stephen Carr, Efthimios Kaxiras, Ashvin Vishwanath</span><br />
+    <span>arXiv:2111.11060 (2021)</span>
+  </li>
+</ul>
+  
+</div>
+
+<h2 id="2020">2020</h2>
+
+<div class="pub-list">
+<ul>
+    <li>
+      <strong>Twisted trilayer graphene: a precisely tunable platform for correlated electrons</strong><br />
+      <span><u>Ziyan Zhu</u>, Stephen Carr, Daniel Massatt, Mitchell Luskin, Efthimios Kaxiras</span><br />
+      <span>Physical Review Letters 125 (11), 116404 (2020)</span><br />
+      <span>DOI: 10.1103/PhysRevLett.125.116404 | arXiv:2006.00399</span>
+    </li>
+
+    <li>
+      <strong>Modeling mechanical relaxation in incommensurate trilayer van der Waals heterostructures</strong><br />
+      <span><u>Ziyan Zhu</u>, Paul Cazeaux, Mitchell Luskin, Efthimios Kaxiras</span><br />
+      <span>Physical Review B 101 (22), 224107 (2020)</span><br />
+      <span>DOI: 10.1103/PhysRevB.101.224107 | arXiv:1911.05324</span>
+    </li>
+	
+    <li>
+      <strong>Topological gaseous plasmon polarization in realistic plasma</strong><br />
+      <span>Jeffrey B. Parker, J. B. Marston, Steven M. Tobias, <u>Ziyan Zhu</u></span><br />
+      <span>Physical Review Letters 124 (19), 195001 (2020)</span><br />
+      <span>DOI: 10.1103/PhysRevLett.124.195001 | arXiv:1911.01069</span>
+    </li>
+
+    <li>
+      <strong>Electronic structure calculations of twisted multi-layer graphene superlattices</strong><br />
+      <span>Georgios A. Tritsaris, Stephen Carr, <u>Ziyan Zhu</u>, Yiqi Xie, Steven B. Torrisi, Jing Tang, Marios Mattheakis, Daniel Larson, Efthimios Kaxiras</span><br />
+      <span>2D Materials 7 (3), 035028 (2020)</span><br />
+      <span>DOI: 10.1088/2053-1583/ab8f62 | arXiv:2001.11633 </span>
+    </li>
+
+    <li>
+      <strong>Coexistence of ultraheavy and ultrarelativistic Dirac quasiparticles in sandwiched graphene</strong><br />
+      <span>Stephen Carr, Chenyuan Li, <u>Ziyan Zhu</u>, Efthimios Kaxiras, Subir Sachdev, Alex Kruchkov</span><br />
+      <span>Nano Letters 20 (5), 3030–3038 (2020)</span><br />
+      <span>DOI:10.1021/acs.nanolett.9b04979 | arXiv:1901.03420</span>
+    </li>
+	
+</ul>
+
+</div>
+
+<h2 id="2019">2019</h2>
+
+<div class="pub-list">
+<ul>
+	  <li>
+	    <strong>Exact continuum model for low-energy electronic states of twisted bilayer graphene</strong><br />
+	    <span>Stephen Carr, Shiang Fang, <u>Ziyan Zhu</u>, Efthimios Kaxiras</span><br />
+	    <span>Physical Review Research 1, 013001 (2019)</span><br />
+	    <span>DOI: 10.1103/PhysRevResearch.1.013001 | arXiv:1901.03420</span>
+	  </li>
+	  
+	  <li>
+	    <strong>Angle-dependent ab-initio low-energy Hamiltonians for a relaxed twisted bilayer graphene heterostructure</strong><br />
+	    <span>Shiang Fang, Stephen Carr, <u>Ziyan Zhu</u>, Daniel Massatt, Efthimios Kaxiras</span><br />
+	    <span>arXiv:1908.00058 (2019)</span>
+	  </li>
+  
+	  <li>
+	    <strong>First M87 Event Horizon Telescope Results</strong><br />
+	    <span>The Event Horizon Telescope Collaboration</span><br />
+	    <span>The Astrophysical Journal Letters 875 1 (2019), L1-L6</span><br />
+	    <span>DOI: 10.3847/2041-8213/ab0ec7 | arXiv:1906.11238</span>
+	  </li>
+</ul>
+
+</div>
+
+<h2 id="2018">2018</h2>
+
+<div class="pub-list">
+<ul>
+    <li>
+      <strong>Testing general relativity with the black hole shadow size and asymmetry of Sagittarius A*: limitations from interstellar scattering</strong><br />
+      <span><u>Ziyan Zhu</u>, Michael D. Johnson, Ramesh Narayan</span><br />
+      <span>The Astrophysical Journal 870 1, 6 (2018)</span><br />
+      <span>DOI: 10.3847/1538-4357/aaef3d | arXiv:1811.02079</span>
+    </li>
+</ul>
+</div>
+
+<h2 id="2017">2017</h2>
+
+<div class="pub-list">
+	
+<ul>
+    <li>
+      <strong>Chaotic edge density fluctuations in the Alcator C-Mod tokamak</strong><br />
+      <span><u>Ziyan Zhu</u>, Anne White, Troy Carter, Seung Gyou Baek, Jim Terry</span><br />
+      <span>Physics of Plasmas 24, 042301 (2017)</span><br />
+      <span>DOI: 10.1063/1.4978784 | arXiv:1612.04046</span>
+    </li>
+</ul>
+
+
+</div>
+
+:ET

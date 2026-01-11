@@ -1,0 +1,98 @@
+I"�
+<div class="about-container">
+  <div class="avatar">
+    <img src="https://avatars.githubusercontent.com/u/22757190?v=4" alt="Zoe Zhu" />
+  </div>
+  <div class="about-text">
+    <p>
+     I am a computational condensed matter physicist. I am also broadly interested in plasma physics, geophysical fluid dynamics/climate science, and applied math. 
+    </p>
+	
+    <p>
+  	 Starting August 2025, I am an Assistant Professor in Physics at Boston College. 
+     Previously, I was a Stanford Science Fellow, working with Prof. Thomas P. Devereaux. 
+     I obtained my Ph.D. in physics at Harvard with Prof. Efthimios Kaxiras.
+    </p>
+	
+   
+
+    <p>
+      Contact: 
+      <a href="mailto:ziyanzhu@stanford.edu">ziyanzhu@stanford.edu</a> / 
+      <a href="mailto:ziyan.zhu@bc.edu">ziyan.zhu@bc.edu</a>.
+    </p>
+  </div>
+</div>
+
+<h3 id="bio">Bio</h3>
+
+<div class="education">
+	
+    <div class="institution">
+        <div class="details">
+
+            <h5>Boston College </h5>
+            <p>Assistant Professor of Physics</p>
+        </div>
+        <div class="date">Aug 2025 — current </div>
+    </div>
+	
+    <div class="institution">
+        <div class="details">
+			
+            <h5>Stanford University / SLAC </h5>
+            <p>Stanford Science Fellow</p>
+        </div>
+        <div class="date">Sep 2022 — Aug 2025</div>
+    </div>
+	
+    <div class="institution">
+        <div class="details">
+            <h5>Harvard University</h5>
+            <p>Ph.D. in Physics with a secondary field in Computational Science and Engineering</p>
+            <p>M.A. in Physics</p>
+        </div>
+        <div class="date">Sep 2017 — May 2022</div>
+    </div>
+
+    <div class="institution">
+        <div class="details">
+            <h5>University of California, Los Angeles</h5>
+            <p>B.Sc. in Physics and Applied Mathematics, Minor in Art History</p>
+        </div>
+        <div class="date">Sep 2013 — Jun 2017</div>
+    </div>
+</div>
+<!--
+## Members
+
+
+<table class="member-table">
+  <tr>
+    <td>
+      <div class="image-container-member">
+        <img src="/images/mini.JPG" alt="Mini">
+      </div>
+    </td>
+    <td>
+      <h5>Mini</h5>
+      <p><em>IT Support Specialist</em></p> 
+	  When you are stuck on your code and scratching your head, Mini is ready to jump in and type for youzvcxzofiodgfjidofg. 
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div class="image-container-member">
+        <img src="/images/melon.JPG" alt="Melon">
+      </div>
+    </td>
+    <td>
+      <h5>Melancholy (Melon)</h5>
+      <p><em>Speech Coach</em></p>  
+	  Before your big presentation, Melon is always here to help. Just follow his singing and relax your vocal cords.
+    </td>
+  </tr>
+</table>
+
+ -->
+:ET
