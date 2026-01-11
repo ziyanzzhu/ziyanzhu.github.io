@@ -180,12 +180,6 @@ permalink: /publications/
     </li>
 	
     <li>
-      <strong>Harnessing excitons at the nanoscale – photoelectrical platform for quantitative sensing and imaging</strong><br>
-      <span>Zhurun Ji, Mark E. Barber, <u>Ziyan Zhu</u>, Carlos R. Kometter, Jiachen Yu, Kenji Watanabe, Takashi Taniguchi, Mengkun Liu, Thomas P. Devereaux, Ben Feldman, Zhi-Xun Shen</span><br>
-      <span>arXiv:2311.04211 (2023)</span>
-    </li>
-
-    <li>
       <strong>Electronic ratchet effect in a moiré system: signatures of excitonic ferroelectricity</strong><br>
       <span>Zhiren Zheng, Xueqiao Wang, <u>Ziyan Zhu</u>, Stephen Carr, Trithep Devakul, Sergio de la Barrera, Nisarga Paul, Zumeng Huang, Anyuan Gao, Yang Zhang, Damien Bérubé, Kathryn Natasha Evancho, Kenji Watanabe, Takashi Taniguchi, Liang Fu, Yao Wang, Su-Yang Xu, Efthimios Kaxiras, Pablo Jarillo-Herrero, Qiong Ma</span><br>
       <span>arXiv:2306.03922 (2023)</span>
