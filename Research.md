@@ -6,21 +6,6 @@ permalink: /research/
 
 
 
-<p class="research-body-font">
-	
-	Realistic quantum materials are often large and aperiodic. 
-	They contain millions of atoms, and their complexity is further compounded by interactions with electrons, phonons (lattice vibrations), and other quasiparticles. These interactions result in an exponential increase in the system's dimensionality. Traditional theoretical models for quantum materials either require an impractically large amount of computational power or rely on overly crude approximations. 
-</p>
-<p class="research-body-font">
-	To address these challenges, we employ a hierarchical modeling approach that integrates first-principles density functional theory (DFT) calculations, low-energy continuum models, effective many-body models, and machine learning techniques. The combination of these approaches allows us to effectively model aperiodic systems and understand their emergent properties. 
-</p>
-
-<div class="research-background-image-container"></div>
-
-
-
-
-
 ## Research Areas
 <table class="project-table">
     <tr>
@@ -52,7 +37,7 @@ permalink: /research/
           <img src="/images/topo.png" alt="topo" style="display: block;">
         </div>
     </td>
-    <td><h5> Topology in Earth's climate and fusion plasmas </h5>
+    <td><h5> Topological fusion </h5>
 		<p> Topology is ubiquitous, shaping phenomena in Earth’s climate, astrophysical systems, and fusion plasmas. We apply numerical techniques to study topological structures in these classical systems. We are conducting an experiment at UCLA’s Large Plasma Device (LAPD) to search for topological waves in magnetized plasmas.  </p>
 
 	</td>
