@@ -158,10 +158,12 @@ h1 {
   font-size: 30px;
   font-style: normal;
   font-weight: 600;
-  border-bottom: 1px solid #2C4E80;
 }
 h1 a {
   color: inherit;
+}
+h1 {
+  border-bottom: 1px solid #2C4E80;
 }
 
 h2 {
