@@ -78,7 +78,7 @@ title: Group
   <tr>
     <td>
       <div class="image-container-member">
-        <img src="/images/cole.jpeg" alt="Cole">
+        <img src="/images/people/cole.jpeg" alt="Cole">
       </div>
     </td>
     <td>
@@ -90,7 +90,7 @@ title: Group
   <tr>
     <td>
       <div class="image-container-member">
-        <img src="/images/keyu.jpeg" alt="Keyu">
+        <img src="/images/people/keyu.jpeg" alt="Keyu">
       </div>
     </td>
     <td>
@@ -102,7 +102,7 @@ title: Group
   <tr>
     <td>
       <div class="image-container-member">
-        <img src="/images/placeholder.png" alt="April">
+        <img src="/images/people/placeholder.png" alt="April">
       </div>
     </td>
     <td>
@@ -113,19 +113,30 @@ title: Group
   <tr>
     <td>
       <div class="image-container-member">
-        <img src="/images/placeholder2.png" alt="Kai">
+        <img src="/images/people/placeholder2.png" alt="Kai">
       </div>
     </td>
     <td>
       <h5>Kai Gowers</h5>
       <p><em>Undergraduate Student</em></p> 
-
     </td>
+    </tr>
+    <tr>
+      <td>
+        <div class="image-container-member">
+          <img src="/images/people/devin.jpg" alt="Devin">
+        </div>
+      </td>
+      <td>
+        <h5>Devin Lim</h5>
+        <p><em>Undergraduate Student</em></p> 
+		Devin is a first year undergraduate at Boston College, pursuing a B.S. in Applied Physics and Computer Science. Currently, he's broadly exploring solid-state physics and twistronics with Prof. Zhu, but outside of the group, he also enjoys game development, competitive programming, and watching anime and movies.
+      </td>
   </tr>
   <tr>
     <td>
       <div class="image-container-member">
-        <img src="/images/mini.JPG" alt="Mini">
+        <img src="/images/people/mini.JPG" alt="Mini">
       </div>
     </td>
     <td>
@@ -137,7 +148,7 @@ title: Group
   <tr>
     <td>
       <div class="image-container-member">
-        <img src="/images/melon.JPG" alt="Melon">
+        <img src="/images/people/melon.JPG" alt="Melon">
       </div>
     </td>
     <td>
