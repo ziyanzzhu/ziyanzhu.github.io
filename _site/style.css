@@ -545,9 +545,10 @@ h5 {
 }
 
 .member-table td {
-  vertical-align: middle; /* Aligns content vertically in the middle */
-  text-align: left; /* Aligns text to the left */
-  padding: 20px; /* Adds spacing between cells */
+  vertical-align: middle;
+  text-align: left;
+  padding: 20px;
+  font-size: 17px; /* Add this line and adjust the number */
 }
 
 .member-table td:first-child {
@@ -564,10 +565,10 @@ h5 {
 }
 
 .image-container-member img {
-  width: 65%; /* Adjusts the image size to fit better */
-  max-width: 300px; /* Sets a maximum width */
-  border-radius: 50%; /* Makes the image circular */
-  border: 3px solid #000; /* Adds a solid border around the image */
+  width: 95%; /* Adjusts the image size to fit better */
+  max-width: 350px; /* Sets a maximum width */
+  border-radius: 10%; /* Makes the image circular */
+  border: 2px solid #000; /* Adds a solid border around the image */
   display: block;
   margin: auto; /* Centers the image in the cell */
 }
@@ -606,7 +607,7 @@ h5 {
     width: 100%; /* Make text take full width on mobile */
     text-align: center; /* Center text */
     font-size: 17px;
-    font-weight: 400;
+    font-weight: 350;
   }
   .image-container-member img {
     width: 60%; /* Adjust image size for mobile */

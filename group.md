@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About
+title: Group
 ---
 
 
@@ -69,11 +69,59 @@ title: About
         <div class="date">Sep 2013 — Jun 2017</div>
     </div>
 </div>
-<!--
+
+
 ## Members
 
 
 <table class="member-table">
+  <tr>
+    <td>
+      <div class="image-container-member">
+        <img src="/images/cole.jpeg" alt="Cole">
+      </div>
+    </td>
+    <td>
+      <h5>Cole Wolfram</h5>
+      <p><em>Ph.D. Student</em></p> 
+      Cole is a first year Ph.D. student at Boston College, primarily interested in using computation to probe beyond the boundaries of traditional physics in macroscopic condensed matter systems. His current research leverages continuum models to simulate electronic behavior in twisted bilayer materials, with plans to extend this work to more robust multi-scale models. He earned his B.S. in Physics from the University of Washington in 2025, conducting ion trapping research with Professors Boris Blinov and Max Parsons. A lover of the arts, at home Cole can often be found making or enjoying music, reading, or on a nice day, fishing the Chestnut Hill Reservoir.
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div class="image-container-member">
+        <img src="/images/keyu.jpeg" alt="Keyu">
+      </div>
+    </td>
+    <td>
+      <h5>Keyu Zeng</h5>
+      <p><em>Ph.D. Student</em></p> 
+      Currently a Ph.D. candidate at Boston College, Keyu is co-advised by Prof. Ziqiang Wang and Prof. Ziyan Zhu. Her research with Prof. Wang explores complex electronic correlations within Kagome materials and charge density waves, while her work with Prof. Zhu utilizes machine learning to model the electronic band structures of 2D materials. Keyu holds a Bachelor’s from Nanjing University and a Master’s from UW-Madison in Physical Chemistry, where she specialized in DFT-based Madelung energy calculations for alloys. When she isn't uncovering the secrets of quantum materials, Keyu is an enthusiast of art, sports, and books, and a self-proclaimed professional cat-petter.
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div class="image-container-member">
+        <img src="/images/placeholder.png" alt="April">
+      </div>
+    </td>
+    <td>
+      <h5>April Li</h5>
+      <p><em>Ph.D. Student</em></p> 
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div class="image-container-member">
+        <img src="/images/placeholder2.png" alt="Kai">
+      </div>
+    </td>
+    <td>
+      <h5>Kai Gowers</h5>
+      <p><em>Undergraduate Student</em></p> 
+
+    </td>
+  </tr>
   <tr>
     <td>
       <div class="image-container-member">
@@ -83,7 +131,7 @@ title: About
     <td>
       <h5>Mini</h5>
       <p><em>IT Support Specialist</em></p> 
-	  When you are stuck on your code and scratching your head, Mini is ready to jump in and type for youzvcxzofiodgfjidofg. 
+      When you are stuck on your code and scratching your head, Mini is ready to jump in and type for youzvcxzofiodgfjidofg. 
     </td>
   </tr>
   <tr>
@@ -95,9 +143,8 @@ title: About
     <td>
       <h5>Melancholy (Melon)</h5>
       <p><em>Speech Coach</em></p>  
-	  Before your big presentation, Melon is always here to help. Just follow his singing and relax your vocal cords.
+      Before your big presentation, Melon is always here to help. Just follow his singing and relax your vocal cords.
     </td>
   </tr>
 </table>
 
- -->
