@@ -8,20 +8,21 @@ title: Join
 
 <p class="list-body-font">
 	
-We have openings for postdocs, graduate students, and undergraduate students. Note that we are not able to take self-funded student (without course credits, stipend, or fellowship funding).
+We have openings for postdocs, graduate students, and undergraduate students. Note that we are not able to take self-funded students (without course credits, stipend, or fellowship funding).
 
 <ul class="list-body-font">
 	
- 	<li> <strong>Postdocs</strong>: Prospective postdocs are invited to send a brief email outlining their research interests and why they would be a strong fit for the group, along with a current CV. I will reach out to promising candidates to schedule an interview. 
-	</li> 
-	
-	<li> 
-	  <strong>Graduate students</strong>: Prospective students can apply through the department website <a href="https://www.bc.edu/bc-web/schools/morrissey/departments/physics/graduate.html" target="_blank">here</a>. If you are an admitted student, you are welcome to contact me at <a href="mailto:ziyan.zhu@bc.edu">ziyan.zhu@bc.edu</a> to discuss potential research projects. We will start with a short-term project to evaluate whether we are a good fit.
-	</li>
-	
- 	<li> <strong>Undergraduate students</strong>: If you are an undergraduate student interested in computational physics (BC or outside of BC), you are welcome to contact me at <a href="mailto:ziyan.zhu@bc.edu">ziyan.zhu@bc.edu</a> to discuss potential projects. In the email, please include your most recent transcript and briefly explain your research interests. I expect undergraduate students to take initiative and put consistent effort into their projects.
-	</li>
-	
+<li> 
+    <strong>Postdocs</strong>: Please email your current CV along with a brief description of your research interests and why you would be a strong fit for the group. I will contact promising candidates to schedule an interview. 
+</li> 
+
+<li> 
+    <strong>Graduate students</strong>: Prospective students should apply through the <a href="https://www.bc.edu/bc-web/schools/morrissey/departments/physics/graduate.html" target="_blank">department website</a>. If you are specifically interested in working with me, please email me your CV, any standardized test scores (physics GRE is a plus), and a brief explanation of your research focus and fit so we can arrange an interview if aligned. Admitted students can reach out directly to discuss potential research; we will begin with a short-term trial project to evaluate our fit.
+</li> 
+
+<li> 
+    <strong>Undergraduate students</strong>: Whether you are at BC or elsewhere, if you are interested in computational physics, please email your most recent transcript and a short summary of your research interests. Note that I expect my undergraduate researchers to take initiative and commit consistent effort to their projects.
+</li>
 </ul>
 
 </p>
