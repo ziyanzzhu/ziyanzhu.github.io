@@ -102,23 +102,25 @@ title: Group
   <tr>
     <td>
       <div class="image-container-member">
-        <img src="/images/people/placeholder.png" alt="April">
+        <img src="/images/people/april.jpg" alt="April">
       </div>
     </td>
     <td>
       <h5>April Li</h5>
       <p><em>Ph.D. Student</em></p> 
+	  April is a first year graduate student at Boston College.  She earned her B.S. in physics from the University of Washington in 2025, and wrote her senior thesis on quantum sensing using CdSe quantum dots.  At Boston College, she works with Professor Zhu on modeling two-dimensional layered materials with density functional theory, and with Professor Burch on studying altermagnet and quantum raman systems.  In her free time, she can be found birding or playing the newest Pokemon games.
     </td>
   </tr>
   <tr>
     <td>
       <div class="image-container-member">
-        <img src="/images/people/placeholder2.png" alt="Kai">
+        <img src="/images/people/kai.png" alt="Kai">
       </div>
     </td>
     <td>
       <h5>Kai Gowers</h5>
       <p><em>Undergraduate Student</em></p> 
+	  Kai is an undergraduate student at Boston College majoring in Mathematics and Computer Science. His research focuses on computational materials science and machine learning methods for predicting phonon properties of two-dimensional materials. In his free time, he enjoys playing and watching soccer.
     </td>
     </tr>
     <tr>
