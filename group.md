@@ -108,7 +108,7 @@ title: Group
     <td>
       <h5>April Li</h5>
       <p><em>Ph.D. Student</em></p> 
-	  April is a first year graduate student at Boston College.  She earned her B.S. in physics from the University of Washington in 2025, and wrote her senior thesis on quantum sensing using CdSe quantum dots.  At Boston College, she works with Professor Zhu on modeling two-dimensional layered materials with density functional theory, and with Professor Burch on studying altermagnet and quantum raman systems.  In her free time, she can be found birding or playing the newest Pokemon games.
+	  April is a first year graduate student at Boston College.  She earned her B.S. in physics from the University of Washington in 2025, and wrote her senior thesis on quantum sensing using CdSe quantum dots.  At Boston College, she works with Professor Zhu on modeling two-dimensional layered materials with density functional theory, and with Professor Burch on studying altermagnet and quantum Raman systems.  In her free time, she can be found birding or playing the newest Pokemon games.
     </td>
   </tr>
   <tr>
