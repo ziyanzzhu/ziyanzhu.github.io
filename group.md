@@ -90,6 +90,18 @@ title: Group
   <tr>
     <td>
       <div class="image-container-member">
+        <img src="/images/people/qirui.jpg" alt="Qirui">
+      </div>
+    </td>
+    <td>
+      <h5>Qirui Ren</h5>
+      <p><em>Ph.D. Student</em></p>
+      Qirui is a second-year Ph.D. student. His research focuses on exploring the phase diagrams of moiré TMD bilayers. He earned his B.S. from the University of Science and Technology of China (USTC). Outside of research, Qirui enjoys music and novels, and looks forward to further developing his work and collaborating with the group.
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div class="image-container-member">
         <img src="/images/people/keyu.jpeg" alt="Keyu">
       </div>
     </td>
