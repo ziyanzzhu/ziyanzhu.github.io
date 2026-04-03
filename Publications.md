@@ -12,7 +12,7 @@ permalink: /publications/
   <li>
     <strong>Microscopic theory for electron-phonon coupling in twisted bilayer graphene</strong><br>
     <span> <u>Ziyan Zhu</u>, Thomas P. Devereaux</span><br>
-	<span> Phys. Rev. B 113, 035446 (2026) (Editor's Suggstion) </span>
+	<span> Phys. Rev. B 113, 035446 (2026) (Editors' Suggestion) </span>
     <span>DOI: https://doi.org/10.1103/tpww-cq4k | arXiv:2407.03293 </span>
   </li>
  

@@ -43,7 +43,7 @@ As a mentor, my number one priority is to make sure that you are happy and achie
     </li>
 
     <li><strong>Help your work gain visibility: </strong>
-        You will have opportunities present your work at conferences and publish papers regularly. Communication skills — both written and oral — are essential for every scientist. I will help you create visually compelling figures, write clearly, and develop strong public speaking skills.
+        You will have opportunities to present your work at conferences and publish papers regularly. Communication skills — both written and oral — are essential for every scientist. I will help you create visually compelling figures, write clearly, and develop strong public speaking skills.
     </li>
 
     <li><strong>Your mental health matters! </strong>

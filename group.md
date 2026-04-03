@@ -84,7 +84,7 @@ title: Group
     <td>
       <h5>Cole Wolfram</h5>
       <p><em>Ph.D. Student</em></p> 
-      Cole is a first year Ph.D. student at Boston College, primarily interested in using computation to probe beyond the boundaries of traditional physics in macroscopic condensed matter systems. His current research leverages continuum models to simulate electronic behavior in twisted bilayer materials, with plans to extend this work to more robust multi-scale models. He earned his B.S. in Physics from the University of Washington in 2025, conducting ion trapping research with Professors Boris Blinov and Max Parsons. A lover of the arts, at home Cole can often be found making or enjoying music, reading, or on a nice day, fishing the Chestnut Hill Reservoir.
+      Cole is a first-year Ph.D. student at Boston College, primarily interested in using computation to probe beyond the boundaries of traditional physics in macroscopic condensed matter systems. His current research leverages continuum models to simulate electronic behavior in twisted bilayer materials, with plans to extend this work to more robust multi-scale models. He earned his B.S. in Physics from the University of Washington in 2025, conducting ion trapping research with Professors Boris Blinov and Max Parsons. A lover of the arts, at home Cole can often be found making or enjoying music, reading, or on a nice day, fishing the Chestnut Hill Reservoir.
     </td>
   </tr>
   <tr>
@@ -120,7 +120,7 @@ title: Group
     <td>
       <h5>April Li</h5>
       <p><em>Ph.D. Student</em></p> 
-	  April is a first year graduate student at Boston College.  She earned her B.S. in physics from the University of Washington in 2025, and wrote her senior thesis on quantum sensing using CdSe quantum dots.  At Boston College, she works with Professor Zhu on modeling two-dimensional layered materials with density functional theory, and with Professor Burch on studying altermagnet and quantum Raman systems.  In her free time, she can be found birding or playing the newest Pokemon games.
+	  April is a first-year graduate student at Boston College.  She earned her B.S. in physics from the University of Washington in 2025, and wrote her senior thesis on quantum sensing using CdSe quantum dots.  At Boston College, she works with Professor Zhu on modeling two-dimensional layered materials with density functional theory, and with Professor Burch on studying altermagnet and quantum Raman systems.  In her free time, she can be found birding or playing the newest Pokemon games.
     </td>
   </tr>
   <tr>
@@ -144,7 +144,7 @@ title: Group
       <td>
         <h5>Devin Lim</h5>
         <p><em>Undergraduate Student</em></p> 
-		Devin is a first year undergraduate at Boston College, pursuing a B.S. in Applied Physics and Computer Science. Currently, he's broadly exploring solid-state physics and twistronics with Prof. Zhu, but outside of the group, he also enjoys game development, competitive programming, and watching anime and movies.
+		Devin is a first-year undergraduate at Boston College, pursuing a B.S. in Applied Physics and Computer Science. Currently, he's broadly exploring solid-state physics and twistronics with Prof. Zhu, but outside of the group, he also enjoys game development, competitive programming, and watching anime and movies.
       </td>
   </tr>
   <tr>
