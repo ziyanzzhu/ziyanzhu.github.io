@@ -235,6 +235,16 @@ img {
   border-radius: 0.15em;
 }
 
+.pub-list li strong a {
+  text-decoration: none;
+  &:hover, &:active {
+    text-decoration: underline;
+    text-decoration-color: $highlightColor;
+    text-decoration-thickness: 1.25px;
+    text-underline-offset: 2px;
+  }
+}
+
 /*********************/
 /* LAYOUT / SECTIONS */
 /*********************/
