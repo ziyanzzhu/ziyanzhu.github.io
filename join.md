@@ -17,7 +17,7 @@ We have openings for graduate students and undergraduate students. I am not curr
 </li>
 
 <li>
-    <strong>Undergraduate students</strong>: Please email your most recent transcript and a short description of your research interests (note that I won't respond without these). Note that I expect my undergraduate researchers to take initiative and commit consistent effort to their projects. I prefer students who can work with me for a long term and be able to finish projects, rather than for a single semester. I will interview prospective students to evaluate fit.
+    <strong>Undergraduate students</strong>: Please email your <u>most recent transcript</u> and a <u>short description of your research interests</u>. I won't respond without these. Note that I expect my undergraduate researchers to take initiative and commit consistent effort to their projects. I prefer students who can work with me for a long term and be able to finish projects, rather than for a single semester. I will interview prospective students to evaluate fit.
 </li>
 </ul>
 
