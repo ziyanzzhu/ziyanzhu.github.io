@@ -330,7 +330,7 @@ img {
     margin-bottom: 20px;
 
     .details {
-      width: 80%;
+      width: 100%;
     }
 
     h5 {
@@ -368,13 +368,14 @@ img {
 }
 
 .research-background-image-container {
-  background-image: url('{{ site.baseurl }}/images/workflow.png');
+  background-image: url('{{ site.baseurl }}/images/workflow-wide.png');
   background-size: contain;
   background-repeat: no-repeat;
   background-position: center;
-  height: 500px;
+  height: auto;
+  aspect-ratio: 1787 / 841;
   width: 100%;
-  margin: 0 auto;
+  margin: 1.38em auto 0;
   padding: 1px;
   box-sizing: border-box;
   border-radius: 0px;
@@ -382,7 +383,7 @@ img {
 
 @media screen and (max-width: 500px) {
   .research-background-image-container {
-    height: 210px;
+    height: auto;
     background-size: contain;
     padding: 1px;
     margin: 0 auto;
@@ -581,6 +582,7 @@ img {
   height: 100%;
   font: 30px $headerFont;
   font-weight: bold;
+  margin-top: -15px; // tighter gap below the nav tabs
   margin-bottom: 0em;
 }
 
@@ -591,15 +593,73 @@ img {
 }
 
 .front-body-font {
-  font: 20px/1.4 $bodyFont;
+  font: 18px/1.4 $bodyFont;
   text-indent: 2em;
   font-weight: 350;
 }
 
 @media screen and (max-width: 768px) {
   .front-body-font {
-    font-size: 17px;
+    font-size: 16px;
     text-indent: 1em;
+  }
+}
+
+.news-section {
+  margin-top: 2.5em;
+}
+
+.news-heading {
+  font-family: $headerFont;
+  margin: 0 0 0.6em;
+}
+
+.news-list {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}
+
+.news-list li {
+  display: flex;
+  gap: 0.8em;
+  font: 17px/1.5 $bodyFont;
+  font-weight: 350;
+  margin-bottom: 0.6em;
+}
+
+.news-date {
+  flex: 0 0 auto;
+  white-space: nowrap;
+  font-family: $headerFont;
+  font-size: 15px;
+  color: $red;
+  padding-top: 0.1em;
+}
+
+.news-text {
+  flex: 1;
+}
+
+.news-logo {
+  flex: 0 0 auto;
+  width: 60px;
+  height: 60px;
+  object-fit: contain;
+}
+
+@media screen and (max-width: 640px) {
+  .news-list li {
+    flex-direction: column;
+    gap: 0;
+  }
+
+  .news-date {
+    flex-basis: auto;
+  }
+
+  .news-logo {
+    display: none;
   }
 }
 

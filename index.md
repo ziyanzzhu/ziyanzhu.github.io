@@ -14,6 +14,19 @@ title: Home
 	
 </p>
 
+<div class="news-section">
+	<h3 class="news-heading">News</h3>
+	<ul class="news-list">
+		{% for item in site.data.news limit:5 %}
+		<li>
+			<span class="news-date">{{ item.date }}</span>
+			<span class="news-text">{{ item.text }}{% if item.url %} <a href="{{ item.url }}">{{ item.link_text | default: "Read more" }}</a>{% endif %}</span>
+			{% if item.logo %}<img class="news-logo" src="{{ item.logo }}" alt="{{ item.logo_alt }}">{% endif %}
+		</li>
+		{% endfor %}
+	</ul>
+</div>
+
 
 <!--
 

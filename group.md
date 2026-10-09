@@ -15,7 +15,7 @@ title: Group
     </p>
 	
     <p>
-  	 I have been an Assistant Professor in Physics at Boston College since August 2025. 
+  	 I am an Assistant Professor in Physics at Boston College. 
      Previously, I was a Stanford Science Fellow, working with Prof. Thomas P. Devereaux. 
      I obtained my Ph.D. in physics at Harvard with Prof. Efthimios Kaxiras.
     </p>
@@ -40,7 +40,6 @@ title: Group
             <h5>Boston College </h5>
             <p>Assistant Professor of Physics</p>
         </div>
-        <div class="date">Aug 2025 — current </div>
     </div>
 	
     <div class="institution">
@@ -49,7 +48,6 @@ title: Group
             <h5>Stanford University / SLAC </h5>
             <p>Stanford Science Fellow</p>
         </div>
-        <div class="date">Sep 2022 — Aug 2025</div>
     </div>
 	
     <div class="institution">
@@ -58,7 +56,6 @@ title: Group
             <p>Ph.D. in Physics with a secondary field in Computational Science and Engineering</p>
             <p>M.A. in Physics</p>
         </div>
-        <div class="date">Sep 2017 — May 2022</div>
     </div>
 
     <div class="institution">
@@ -66,7 +63,6 @@ title: Group
             <h5>University of California, Los Angeles</h5>
             <p>B.Sc. in Physics and Applied Mathematics, Minor in Art History</p>
         </div>
-        <div class="date">Sep 2013 — Jun 2017</div>
     </div>
 </div>
 

@@ -1,0 +1,22 @@
+# News items shown on the home page, newest first.
+# The home page shows the first 5 entries.
+#   date: label shown in the left column (free text, e.g. "Sep 2026")
+#   text: the announcement (HTML allowed)
+#   url:  optional link, applied to the link_text
+#   link_text: optional; defaults to "Read more"
+#   logo: optional image shown on the right (e.g. /images/logos/nsf.svg)
+#   logo_alt: alt text for the logo
+
+- date: "2026"
+  text: "Our group receives a DOE Early Career Research Program award from the Office of Basic Energy Sciences for <em>Structural Origins of Emergent Order in Moiré Materials</em>."
+  url: "https://science.osti.gov/-/media/early-career/pdf/2026-ECRP-Public-Abstracts.pdf#page=67"
+  link_text: "Abstract"
+  logo: "/images/logos/doe.svg"
+  logo_alt: "U.S. Department of Energy"
+
+- date: "2026"
+  text: "Our group receives an NSF DMREF award for <em>Engineering Novel Quantum Material Platform at Twisted Multilayer Interfaces</em>."
+  url: "https://www.nsf.gov/awardsearch/show-award?AWD_ID=2522252"
+  link_text: "NSF award"
+  logo: "/images/logos/nsf.svg"
+  logo_alt: "National Science Foundation"
