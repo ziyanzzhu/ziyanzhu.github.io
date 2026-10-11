@@ -368,12 +368,12 @@ img {
 }
 
 .research-background-image-container {
-  background-image: url('{{ site.baseurl }}/images/workflow-wide.png');
+  background-image: url('{{ site.baseurl }}/images/workflow-wide.png?v={{ site.time | date: '%s' }}');
   background-size: contain;
   background-repeat: no-repeat;
   background-position: center;
   height: auto;
-  aspect-ratio: 1787 / 841;
+  aspect-ratio: 1787 / 882;
   width: 100%;
   margin: 1.38em auto 0;
   padding: 1px;
