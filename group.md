@@ -74,13 +74,13 @@ title: Group
   <tr>
     <td>
       <div class="image-container-member">
-        <img src="/images/people/cole.jpeg" alt="Cole">
+        <img src="/images/people/april.jpg" alt="April">
       </div>
     </td>
     <td>
-      <h5>Cole Wolfram</h5>
+      <h5>April Li</h5>
       <p><em>Ph.D. Student</em></p> 
-      Cole is a Ph.D. student at Boston College, primarily interested in using computation to probe beyond the boundaries of traditional physics in macroscopic condensed matter systems. His current research leverages continuum models to simulate electronic behavior in twisted bilayer materials, with plans to extend this work to more robust multi-scale models. He earned his B.S. in Physics from the University of Washington in 2025, conducting ion trapping research with Professors Boris Blinov and Max Parsons. A lover of the arts, at home Cole can often be found making or enjoying music, reading, or on a nice day, fishing the Chestnut Hill Reservoir.
+	  April is a graduate student at Boston College.  She earned her B.S. in physics from the University of Washington in 2025, and wrote her senior thesis on quantum sensing using CdSe quantum dots.  At Boston College, she works with Professor Zhu on modeling two-dimensional layered materials with density functional theory, and with Professor Burch on studying altermagnet and quantum Raman systems.  In her free time, she can be found birding or playing the newest Pokemon games.
     </td>
   </tr>
   <tr>
@@ -98,6 +98,18 @@ title: Group
   <tr>
     <td>
       <div class="image-container-member">
+        <img src="/images/people/cole.jpeg" alt="Cole">
+      </div>
+    </td>
+    <td>
+      <h5>Cole Wolfram</h5>
+      <p><em>Ph.D. Student</em></p> 
+      Cole is a Ph.D. student at Boston College, primarily interested in using computation to probe beyond the boundaries of traditional physics in macroscopic condensed matter systems. His current research leverages continuum models to simulate electronic behavior in twisted bilayer materials, with plans to extend this work to more robust multi-scale models. He earned his B.S. in Physics from the University of Washington in 2025, conducting ion trapping research with Professors Boris Blinov and Max Parsons. A lover of the arts, at home Cole can often be found making or enjoying music, reading, or on a nice day, fishing the Chestnut Hill Reservoir.
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div class="image-container-member">
         <img src="/images/people/keyu.jpeg" alt="Keyu">
       </div>
     </td>
@@ -105,18 +117,6 @@ title: Group
       <h5>Keyu Zeng</h5>
       <p><em>Ph.D. Student</em></p> 
       Currently a Ph.D. student at Boston College, Keyu is co-advised by Prof. Ziqiang Wang and Prof. Ziyan Zhu. Her research with Prof. Wang explores complex electronic correlations within Kagome materials and charge density waves, while her work with Prof. Zhu utilizes machine learning to model the electronic band structures of 2D materials. Keyu holds a Bachelor’s from Nanjing University and a Master’s from UW-Madison in Physical Chemistry, where she specialized in DFT-based Madelung energy calculations for alloys. When she isn't uncovering the secrets of quantum materials, Keyu is an enthusiast of art, sports, and books, and a self-proclaimed professional cat-petter.
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div class="image-container-member">
-        <img src="/images/people/april.jpg" alt="April">
-      </div>
-    </td>
-    <td>
-      <h5>April Li</h5>
-      <p><em>Ph.D. Student</em></p> 
-	  April is a graduate student at Boston College.  She earned her B.S. in physics from the University of Washington in 2025, and wrote her senior thesis on quantum sensing using CdSe quantum dots.  At Boston College, she works with Professor Zhu on modeling two-dimensional layered materials with density functional theory, and with Professor Burch on studying altermagnet and quantum Raman systems.  In her free time, she can be found birding or playing the newest Pokemon games.
     </td>
   </tr>
   <tr>
@@ -131,7 +131,7 @@ title: Group
 	  Kai is an undergraduate student at Boston College majoring in Mathematics and Computer Science. His research focuses on computational materials science and machine learning methods for predicting phonon properties of two-dimensional materials. In his free time, he enjoys playing and watching soccer.
     </td>
     </tr>
-    <tr>
+  <tr>
       <td>
         <div class="image-container-member">
           <img src="/images/people/devin.jpg" alt="Devin">
